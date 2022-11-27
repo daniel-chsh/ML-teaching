@@ -6,9 +6,9 @@ The lectures don't come out as often as I'd like, but as they do, I'll be postin
  > For me, the purpose of these lectures at the company is to raise the level of beginners. I want to give them the tools to go deeper into data, get insights and draw conclusions useful for business 
   
 
-| Theme | Comment |
-| :-- | :---- |
-| [**Neural Networks Intro**](./neural_networks/FMNIST.ipynb) | An introductory lecture on neural networks. It is aimed at beginners and allows you to run your first neural network for an image classification task without any in-depth knowledge and compare the results with classical machine learning algorithms. The comparison was performed on the Fasion-MNIST dataset |
+| Theme | Comment | Links |
+| :-- | :---- | :---- |
+| [**Neural Networks Intro**](./neural_networks/FMNIST.ipynb) | An introductory lecture on neural networks. It is aimed at beginners and allows you to run your first neural network for an image classification task without any in-depth knowledge and compare the results with classical machine learning algorithms. The comparison was performed on the Fasion-MNIST dataset | [**Neural Networks: Basics**](https://towardsdatascience.com/neural-networks-basics-29cc093b82be), [**Understanding Neural Networks**](https://medium.com/analytics-vidhya/understanding-neural-networks-from-neuron-to-rnn-cnn-and-deep-learning-cd88e90e0a90)
 
 
 
